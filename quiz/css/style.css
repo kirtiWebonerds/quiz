@@ -1,0 +1,58 @@
+.base-theme-color{
+	background-color: #3b5998;
+}
+.footer, .push {
+
+    		min-height: 300px; 	
+		}
+		.footer{
+			min-height: 100px;
+			background-color:#34495E;
+			color:#fff;
+			font-style: bold;
+		}
+
+ /*.panel-info>.panel-heading {
+    color:;
+    background-color: #ffe4e1;
+    font-style: bold;
+    border-color: #ffe4e1;
+}*/
+
+.panel-success>.panel-heading {
+    color:#FFF;
+    background-color:#AAB7B8  ;
+    border-color:#AAB7B8  ;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: "Open Sans",sans-serif;
+	font-weight: 300;
+}
+/*
+ ** 
+ ***
+ Navigation bar starts
+ *** 
+ **
+ */
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+.navbar-inverse {
+    background-color:#34495E;
+    border-color:#34495E;
+    border-radius: 0;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #FFF;
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: #fff;
+    background-color:#34495E;
+}
+/*Navigation bar ends here*/
+.btn-warning.btn-custom-warning{
+    color: #fff;
+    background-color:#800080;
+    border-color:#800080 ;
+}
